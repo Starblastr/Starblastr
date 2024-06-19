@@ -15,5 +15,5 @@ I'm a Jr Machine Learning engineer and author of `snaggr` who loves working with
 
 
 ![Coder GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-[![My Skills](https://skillicons.dev/icons?i=python,c,postgres,aws,docker,mongodb,linux,raspberrypi,arduino,javascript,nodejs,html,css,django,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,git,postgres,aws,docker,mongodb,linux,raspberrypi,arduino,javascript,nodejs,html,css,django,)](https://skillicons.dev)
 
