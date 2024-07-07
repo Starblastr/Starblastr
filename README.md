@@ -6,7 +6,7 @@ I'm a Jr Machine Learning engineer and author of `snaggr` who loves working with
     Here are a few things about me:
 
 - 🔭 I’m currently working on:
-  - [AI chatbot](https://chatbot-production-7d40.up.railway.app/)
+  - [AI chatbot](https://deongpt.up.railway.app/)
 - 🌱 I’m currently learning OpenCV.
 - 👯 I’m looking to collaborate on AI projects.
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:youremail@gmail.com)/[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deon-posey-333972135/)
