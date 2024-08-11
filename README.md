@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 
-I'm a Jr Machine Learning engineer and author of `snaggr` who loves working with ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white), ![Javascript](https://img.shields.io/badge/Javascript-e06614?style=for-the-badge&logo=Javascript&logoColor=white),  ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white), ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) and ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white).
+I am currently the lead Machine Learning engineer for a small startup company. I also do Full Stack development and I am the author of a python webscraping package called `snaggr`. I enjoy working with ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white), ![Javascript](https://img.shields.io/badge/Javascript-e06614?style=for-the-badge&logo=Javascript&logoColor=white),  ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white), ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) and ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white).
 
     Here are a few things about me:
 
 - 🔭 I’m currently working on:
-  - [AI chatbot](https://deongpt.up.railway.app/)
+  - Voice Classification model
 - 🌱 I’m currently learning OpenCV.
 - 👯 I’m looking to collaborate on AI projects.
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:youremail@gmail.com)/[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deon-posey-333972135/)
