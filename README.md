@@ -2,9 +2,15 @@
 
 
 I am currently the lead Machine Learning engineer for a small startup company. I also do Full Stack development.
-I enjoy working with ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white), ![Javascript](https://img.shields.io/badge/Javascript-e06614?style=for-the-badge&logo=Javascript&logoColor=white),  ![React](https://img.shields.io/badge/React-326ecf?style=for-the-badge&logo=react&logoColor=powderblue), ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) and ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white).
+I enjoy working with 
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![Javascript](https://img.shields.io/badge/Javascript-e06614?style=for-the-badge&logo=Javascript&logoColor=white)
+- ![React](https://img.shields.io/badge/React-326ecf?style=for-the-badge&logo=react&logoColor=powderblue)
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white).
 
-    Here are a few things about me:
+Here are a few things about me:
 
 - 🔭 I’m currently working on:
   - Voice Classification model
